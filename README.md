@@ -1,8 +1,8 @@
 # Request 
 Table of request for App Docker
 
-| NO | Name of App | Kegunaan | Link |
-| --- | --- | --- | --- |
+| NO | Name of App | Kegunaan | Link | Status |
+| --- | --- | --- | --- | --- |
 | 01 | Cacti | Monitoring Jaringan | [Official Web](https://www.cacti.net/) & [Github](https://github.com/Cacti/cacti) | Cek |
 | 02 | Mikpos | Monitoring jaringan PPP & Hotspot Mikrotik | [Github](https://github.com/naufkia/mikpos) | Cek |
 | 03 | WinBox | Winbox untuk WEB-GUI | [Github](https://github.com/t4skforce/docker-novnc-winbox) | Cek |
